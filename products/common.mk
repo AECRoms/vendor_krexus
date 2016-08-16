@@ -38,6 +38,7 @@ endif
 PRODUCT_PACKAGES += \
     Busybox \
     CellBroadcastReceiver \
+    Masquerade \
     Launcher3 \
     LiveWallpapersPicker \
     Stk \
